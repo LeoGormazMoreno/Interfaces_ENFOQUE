@@ -1,0 +1,3 @@
+0001,2025-11-03,300,Fancisco,Varela Moreno,12121212R,FranVM,0001,Mar Mediterraneo 25,100,500.00,3,2
+0002,2025-11-07,420,Antonio,Lopez Garcia,12345678A,AntonioLG,0002,Jose Villegas 9,150,800.00,3,3
+0003,2025-11-15,300,Rocio,Nuñez Casal,32323232S,RocioNC,0003,Santa Lucia 32,75,450.00,2,1
